@@ -1,0 +1,34 @@
+{
+	"movies":[
+		{
+	"title": "F9: The Fast Saga",
+	"genre": "Action",
+	"rating": "5.2",
+	"year": "2021"
+	},	
+
+	{
+	"title": "Eternals",
+	"genre": "Fantasy",
+	"rating": "6.5",
+	"year": "2021" 
+	},	
+
+	{
+	"title": "Don't Look Up",
+	"genre": "Drama",
+	"rating": "7.8",
+	"year": "2021" 
+	},	
+
+	{
+	"title": "The Predator",
+	"genre": "Sci-Fi",
+	"rating": "5.3",
+	"year": "2018" 
+	}	
+		
+
+		
+	]
+}
